@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014891875443",
+    "project_id": "flutter-kamusku",
+    "storage_bucket": "flutter-kamusku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014891875443:android:4600cb58e6cd80d35eae06",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kamusku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014891875443-gog7msrsth9mlrp1clshjkr4t8p6ho46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwVSL-LIXVFqGXYcQh0tKqUYcmao7nZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014891875443-gog7msrsth9mlrp1clshjkr4t8p6ho46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
